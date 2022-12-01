@@ -15,6 +15,7 @@
     background-attachment: fixed;
     background-position: bottom right;
     display: flex;
+    flex-direction: column;
   }
 
   .nav {
