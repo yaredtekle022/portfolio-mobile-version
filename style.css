@@ -1,7 +1,11 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 765px) {
   body {
     background-color: black;
     max-height: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
   }
 
   header {
@@ -13,6 +17,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom right;
+    display: flex;
   }
 
   .nav {
