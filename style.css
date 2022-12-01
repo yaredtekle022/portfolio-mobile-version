@@ -2,10 +2,7 @@
   body {
     background-color: black;
     max-height: 1000px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
+    margin: 0;
   }
 
   header {
